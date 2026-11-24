@@ -30,6 +30,10 @@
 
 در ویدیوی زیر می‌توانید نحوه کارکرد سامانه، ساخت درخت توسعه‌یافته `UP-Tree`، جدول هدر مرتب‌شده بر اساس `TWU`، مقایسه اثر هرس `DGN` در کاهش کاندیداها و کشف الگوهای پرسود را مشاهده فرمایید:
 
+
+https://github.com/user-attachments/assets/5d02950b-ed58-4057-962f-a5b10d5d3eb3
+
+
 <div align="center">
   <video src="https://github.com/KianShojaei/fpgrowth-high-utility-miner/raw/main/Video/demo.mp4" width="95%" controls autoplay loop muted></video>
   <br/>
